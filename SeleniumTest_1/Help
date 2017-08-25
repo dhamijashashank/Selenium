@@ -1,0 +1,7 @@
+Code is working with only Safari in Mac Machine
+
+User need to import 3 Jar files to run code.
+
+1.Junit.jar														:	user can download from https://sourceforge.net/projects/junit/files/junit/
+2. /SeleniumTest/lib/selenium-server-standalone-3.5.2.jar		:	user can download from http://www.seleniumhq.org/download/
+3./SeleniumTest/lib/client-combined-3.5.2-nodeps.jar			:	user can download from http://www.seleniumhq.org/download/
